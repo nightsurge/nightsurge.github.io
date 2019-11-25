@@ -11,13 +11,9 @@ page_sections:
     link_text: Home
   - link: "#features"
     link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
-  - link: "#team"
-    link_text: Team
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: https://gamerdvr.com/discord/install
+    button_text: Install
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
