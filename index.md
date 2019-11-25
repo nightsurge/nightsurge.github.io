@@ -13,7 +13,7 @@ page_sections:
     link_text: How to Use
   cta:
     url: https://gamerdvr.com/discord/install
-    button_text: Install
+    button_text: Add to Server
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
