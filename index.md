@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: Home
   - link: "#features"
-    link_text: How to use
+    link_text: How to Use
   cta:
     url: https://gamerdvr.com/discord/install
     button_text: Install
