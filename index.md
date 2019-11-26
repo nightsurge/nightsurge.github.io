@@ -33,7 +33,7 @@ page_sections:
   headline: <strong>Use simple commands<span class="light"> </span></strong><span
     class="light">to view, edit, and share Xbox content</span>
   content: Easily view Xbox clips, screenshots and achievements. Edit clips, upload
-    to YouTube (linked account required), share to Facebook, Twitter, and more.
+    to YouTube (linked account required), share to Facebook, Twitter, and more*.
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
