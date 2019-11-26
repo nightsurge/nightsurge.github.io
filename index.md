@@ -44,6 +44,10 @@ page_sections:
     screenshots, and achievements, but based on the community feedback we will build
     these out to include more advanced options, more commands for Twitch and Mixer
     content, and improved embedded viewing and sharing.
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/06/21/theme.png"
+  caption: Examples of commands in action
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/xbox-discord-logo.png"
@@ -53,10 +57,6 @@ page_sections:
   col_3: ''
   col_4: "<em>Xbox is a registered trademark of Microsoft and used only as a reference.
     We do not claim any ownership of the trademark or Xbox product.</em>"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: Examples of commands in action
 
 ---
 foo bar
