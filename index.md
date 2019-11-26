@@ -58,7 +58,7 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: ''
-  col_2: ''
+  col_2: "<strong>Important Links:<br></strong>"
   col_3: ''
   col_4: ''
 
