@@ -564,8 +564,16 @@ input.inverted::placeholder {
   text-align: center
 }
 
-.block-footer-2 .columns {
+.block-footer-2 {
   background: #7389DA;
+  color: darkgray;
+}
+
+.block-footer-2 a {
+  color: darkgray;
+}
+
+.block-footer-2 .columns {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
