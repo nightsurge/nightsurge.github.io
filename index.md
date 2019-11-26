@@ -49,11 +49,11 @@ page_sections:
   caption: All Available Blocks
 - template: simple-footer
   block: footer-1
-  content: Important Links:<br><a href="https://gamerdvr.com?ref=xboxdiscord.com"
+  content: <strong>Important Links:</strong><br><a href="https://gamerdvr.com?ref=xboxdiscord.com"
     title="">Gamer DVR</a> | <a href="https://top.gg/bot/613818499285909504" title="">Gamer
-    DVR Bot</a> | <a href="https://xboxclips.co" title="">Xbox Clips</a><br><br>Xbox
+    DVR Bot</a> | <a href="https://xboxclips.co" title="">Xbox Clips</a><br><br><em>Xbox
     is a registered trademark of Microsoft and used only as a reference. We do not
-    claim any ownership of the trademark or Xbox product.
+    claim any ownership of the trademark or Xbox product.</em>
 
 ---
 foo bar
