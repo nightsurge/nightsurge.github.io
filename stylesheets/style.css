@@ -557,6 +557,7 @@ input.inverted::placeholder {
 }
 
 .block-footer-1 {
+  background: #7389DA;
   font-size: 12.8px;
   font-size: .8rem;
   color: #666;
@@ -564,6 +565,7 @@ input.inverted::placeholder {
 }
 
 .block-footer-2 .columns {
+  background: #7389DA;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
