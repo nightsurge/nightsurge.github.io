@@ -46,7 +46,7 @@ page_sections:
     content, and improved embedded viewing and sharing.
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/Screen Shot 2019-11-26 at 4.17.35 PM.png"
+  image: "/uploads/commands.png"
   caption: Examples of commands in action
 - template: 4-column-footer
   block: footer-2
