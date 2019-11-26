@@ -56,8 +56,9 @@ page_sections:
     Discord
   col_3: <strong>Social:</strong><br><a href="https://top.gg/bot/613818499285909504"
     title="Discord Bot on Top.gg">Discord Bot on Top.gg</a>
-  col_4: "<em>Xbox is a registered trademark of Microsoft and used only as a reference.
-    We do not claim any ownership of the trademark or Xbox product.</em>"
+  col_4: "<em>*Features still in development<br><br>Xbox is a registered trademark
+    of Microsoft and used only as a reference. We do not claim any ownership of the
+    trademark or Xbox product.</em>"
 
 ---
 foo bar
