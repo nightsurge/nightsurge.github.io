@@ -16,9 +16,9 @@ page_sections:
     button_text: Add to Server
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: An Xbox <br><strong>Discord bot</strong>
+  content: Unleash a new and easy way to share your Xbox clips, screenshots, and achievements
+    in your Discord communities.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
