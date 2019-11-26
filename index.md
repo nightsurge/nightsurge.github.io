@@ -48,19 +48,15 @@ page_sections:
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: Examples of commands in action
-- template: simple-footer
-  block: footer-1
-  content: <strong>Important Links:</strong><br><a href="https://gamerdvr.com?ref=xboxdiscord.com"
-    title="">Gamer DVR</a> | <a href="https://top.gg/bot/613818499285909504" title="">Gamer
-    DVR Bot</a> | <a href="https://xboxclips.co" title="">Xbox Clips</a><br><br><em>Xbox
-    is a registered trademark of Microsoft and used only as a reference. We do not
-    claim any ownership of the trademark or Xbox product.</em>
 - template: 4-column-footer
   block: footer-2
   image: ''
-  col_2: "<strong>Important Links:<br></strong>"
+  col_2: <strong>Partners:<br></strong><a href="https://gamerdvr.com" title="">Gamer
+    DVR</a><br><a href="https://top.gg/bot/613818499285909504" title="">Gamer DVR
+    Bot</a><br><a href="https://xboxclips.co" title="">Xbox Clips</a>
   col_3: ''
-  col_4: ''
+  col_4: "<em>Xbox is a registered trademark of Microsoft and used only as a reference.
+    We do not claim any ownership of the trademark or Xbox product.</em>"
 
 ---
 foo bar
