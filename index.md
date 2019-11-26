@@ -52,9 +52,10 @@ page_sections:
   block: footer-2
   image: "/uploads/xbox-discord-logo.png"
   col_2: <strong>Partners:<br></strong><a href="https://gamerdvr.com" title="">Gamer
-    DVR</a><br><a href="https://xboxclips.co" title="">Xbox Clips</a>
+    DVR</a><br><a href="https://xboxclips.co" title="">Xbox Clips</a><br>Twitch Discord<br>Mixer
+    Discord
   col_3: <strong>Social:</strong><br><a href="https://top.gg/bot/613818499285909504"
-    title="">Gamer DVR Bot</a><strong><br></strong>
+    title="Discord Bot on Top.gg">Discord Bot on Top.gg</a>
   col_4: "<em>Xbox is a registered trademark of Microsoft and used only as a reference.
     We do not claim any ownership of the trademark or Xbox product.</em>"
 
