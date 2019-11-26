@@ -566,11 +566,11 @@ input.inverted::placeholder {
 
 .block-footer-2 {
   background: #7389DA;
-  color: darkgray;
+  color: lightgray;
 }
 
 .block-footer-2 a {
-  color: darkgray;
+  color: white;
 }
 
 .block-footer-2 .columns {
