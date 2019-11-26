@@ -55,6 +55,12 @@ page_sections:
     DVR Bot</a> | <a href="https://xboxclips.co" title="">Xbox Clips</a><br><br><em>Xbox
     is a registered trademark of Microsoft and used only as a reference. We do not
     claim any ownership of the trademark or Xbox product.</em>
+- template: 4-column-footer
+  block: footer-2
+  image: ''
+  col_2: ''
+  col_3: ''
+  col_4: ''
 
 ---
 foo bar
