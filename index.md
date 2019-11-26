@@ -39,10 +39,11 @@ page_sections:
     alt_text: uBuild Blocks Mock-Up
 - template: 1-column-text
   block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+  headline: 4 Basic Commands - Evolving with the community
+  content: We've launched this bot with basic commands for retrieving Xbox clips,
+    screenshots, and achievements, but based on the community feedback we will build
+    these out to include more advanced options, more commands for Twitch and Mixer
+    content, and improved embedded viewing and sharing.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
