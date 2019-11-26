@@ -2,11 +2,6 @@
 label: 3-column-footer
 hide_body: false
 fields:
-- type: text
-  hidden: true
-  label: block
-  name: block
-  default: footer-2
 - type: textarea
   name: col_2
   label: Column 2 Content
