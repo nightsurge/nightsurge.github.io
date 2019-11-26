@@ -50,7 +50,7 @@ page_sections:
   caption: Examples of commands in action
 - template: 4-column-footer
   block: footer-2
-  image: ''
+  image: "/uploads/xbox-discord-logo.png"
   col_2: <strong>Partners:<br></strong><a href="https://gamerdvr.com" title="">Gamer
     DVR</a><br><a href="https://top.gg/bot/613818499285909504" title="">Gamer DVR
     Bot</a><br><a href="https://xboxclips.co" title="">Xbox Clips</a>
