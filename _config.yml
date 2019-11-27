@@ -5,7 +5,7 @@ email: support@gamerdvr.com
 description: Xbox Discord is a Discord bot for finding your Xbox clips, screenshots,
   achievements, and more. Constantly updating features based on community feedback.
   If you have xbox and discord, get this bot now!
-baseurl: "/ubuild-jekyll"
+baseurl: "/"
 url: ''
 defaults:
 - scope:
