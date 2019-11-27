@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: ''
+title: Xbox Discord
 date: 
 page_sections:
 - template: navigation-header-w-button
