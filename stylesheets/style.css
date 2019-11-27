@@ -222,6 +222,13 @@ input.inverted::placeholder {
   max-height: 3rem;
 }
 
+@media screen and (max-width:500px) {
+  .block-header-2--nav ul {
+    display: none;
+  }
+}
+  
+
 .block-header-2--nav {
   display: -ms-flexbox;
   display: flex;
