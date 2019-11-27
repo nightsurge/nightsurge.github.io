@@ -17,8 +17,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: An Xbox <br><strong>Discord bot</strong>
-  content: Unleash a new and easy way to share your Xbox clips, screenshots, and achievements
-    in your Discord communities.
+  content: Unleash a new and easy way to view and share your Xbox clips, screenshots,
+    and achievements in your Discord communities.
   cta:
     enabled: true
     url: https://gamerdvr.com/discord/install
