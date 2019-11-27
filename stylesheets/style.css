@@ -282,7 +282,7 @@ input.inverted::placeholder {
 }
 
 .block-hero-1 {
-  --bg: #7389DA;
+  --bg: #313338;
   --text: #fff;
   display: -ms-flexbox;
   display: flex;
@@ -717,6 +717,14 @@ input.inverted::placeholder {
   }
 }
 
+.block-feature-2 {
+  background: #7389DA;
+}
+
+.block-feature-2 p {
+  color: white;
+}
+
 .block-feature-2 .columns {
   display: -ms-flexbox;
   display: flex;
@@ -773,6 +781,10 @@ input.inverted::placeholder {
     -ms-flex-order: 1;
     order: 1
   }
+}
+
+.block-media-1 {
+  background: #313338;
 }
 
 .block-media-1 img {
