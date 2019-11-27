@@ -24,9 +24,9 @@ page_sections:
     url: https://gamerdvr.com/discord/install
     button_text: Add to Discord Server
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/xboxdiscord.gif"
     alt_text: Product Shot
-  background_image: "/uploads/xboxdiscord.gif"
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
