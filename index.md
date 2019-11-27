@@ -35,7 +35,7 @@ page_sections:
   content: Easily view Xbox clips, screenshots and achievements. Edit clips, upload
     to YouTube (linked account required), share to Facebook, Twitter, and more*.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/details.png"
     alt_text: uBuild Blocks Mock-Up
 - template: full-width-media-element
   block: media-1
