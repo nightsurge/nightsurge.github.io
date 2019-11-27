@@ -40,7 +40,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/commands.png"
-  caption: Examples of commands in action
+  caption: Examples of commands with their responses
 - template: 1-column-text
   block: one-column-1
   headline: 4 Basic Commands - Evolving with the community
