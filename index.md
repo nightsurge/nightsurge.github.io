@@ -37,6 +37,10 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/commands.png"
+  caption: Examples of commands in action
 - template: 1-column-text
   block: one-column-1
   headline: 4 Basic Commands - Evolving with the community
@@ -44,10 +48,6 @@ page_sections:
     screenshots, and achievements, but based on the community feedback we will build
     these out to include more advanced options, more commands for Twitch and Mixer
     content, and improved embedded viewing and sharing.
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/commands.png"
-  caption: Examples of commands in action
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/xbox-discord-logo.png"
