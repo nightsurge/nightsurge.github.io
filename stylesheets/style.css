@@ -565,8 +565,12 @@ input.inverted::placeholder {
 }
 
 .block-footer-2 {
-  background: #7389DA;
+  background: #313338;
   color: white;
+}
+
+.block-footer-2 img {
+  width: 125px;
 }
 
 .block-footer-2 a {
