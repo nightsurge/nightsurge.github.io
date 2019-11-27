@@ -51,9 +51,9 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/xbox-discord-logo.png"
-  col_2: <strong>Partners:<br></strong><a href="https://gamerdvr.com" title="">Gamer
-    DVR</a><br><a href="https://xboxclips.co" title="">Xbox Clips</a><br>Twitch Discord<br>Mixer
-    Discord
+  col_2: <strong>Partners:</strong><br>Twitch Discord<br>Mixer Discord<strong><br></strong><a
+    href="https://gamerdvr.com" title="">Gamer DVR</a><br><a href="https://xboxclips.co"
+    title="">Xbox Clips</a>
   col_3: <strong>Social:</strong><br><a href="https://top.gg/bot/613818499285909504"
     title="Discord Bot on Top.gg">Discord Bot on Top.gg</a>
   col_4: "<em>*Features still in development<br><br>Xbox is a registered trademark
