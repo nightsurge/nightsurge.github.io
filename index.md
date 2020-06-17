@@ -31,7 +31,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: <strong>Use simple commands<span class="light"> </span></strong><span
-    class="light">to view, edit, and share Xbox content</span>
+    class="light">to view, edit, and share Xbox content using this Xbox Discord bot</span>
   content: Easily view Xbox clips, screenshots and achievements. Edit clips, upload
     to YouTube (linked account required), share to Facebook, Twitter, and more*.
   media:
