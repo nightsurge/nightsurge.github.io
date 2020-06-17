@@ -16,7 +16,7 @@ page_sections:
     button_text: Add to Server
 - template: hero-banner-w-image
   block: hero-2
-  headline: An Xbox <br><strong>Discord bot</strong>
+  headline: An <strong>Xbox</strong> <strong>Discord bot</strong>
   content: Unleash a new and easy way to view and share your Xbox clips, screenshots,
     and achievements in your Discord communities.
   cta:
